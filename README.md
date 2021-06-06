@@ -19,14 +19,20 @@ chmod +x mb.sh
 ./md.sh
 ~~~
 
-For Educational Purposes Only.
+## For Educational Purposes Only.
 
 This Script is Made From Shell and Python
 
 I am Going To Release E-Mail Bomber and Whatsapp-Bomber soon
 
-Checkout My Youtube Channel:- 
+# Checkout My Youtube Channel:- 
 
 https://www.youtube.com/channel/UC-5qgYN77ce7rfgiQ8jidtQ
 
-Checkout My Previous Repository:- 
+# Checkout My Previous Repository:- 
+
+https://github.com/Hacker-Rohan-Raj/Free-SMS-Sender/tree/main
+
+# Checkout my Tumblr Page:- 
+
+https://www.tumblr.com/blog/view/softwarebuddy
