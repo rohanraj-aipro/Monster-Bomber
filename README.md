@@ -10,6 +10,9 @@ Installation in Kali Linux and WSL (Debian)
 git clone https://github.com/Hacker-Rohan-Raj/Monster-Bomber.git
 ~~~
 ~~~
+cd Monster-Bomber
+~~~
+~~~
 cd Monster Bomber
 ~~~
 ~~~
