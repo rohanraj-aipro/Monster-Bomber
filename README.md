@@ -13,7 +13,7 @@ git clone https://github.com/Hacker-Rohan-Raj/Monster-Bomber.git
 cd Monster-Bomber
 ~~~
 ~~~
-chmod +x monterbomber.sh
+chmod +x monsterbomber.sh
 ~~~
 ~~~
 ./md.sh
